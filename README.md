@@ -1,6 +1,6 @@
 # Curso de Selenium: testes automatizados de aceitação em Java
 
-[Curso de Java.lang da formação Java/Alura](https://cursos.alura.com.br/course/selenium-testes-automatizados-aceitacao-java)
+[Curso de Testes com Java: Testes de Aceitação com Selenium da formação Java Testes/Alura](https://cursos.alura.com.br/course/selenium-testes-automatizados-aceitacao-java)
 
 [<< CURSO ANTERIOR](https://github.com/pvreboucas/java-teste-integracao-sql-daos-automatizados)
 
